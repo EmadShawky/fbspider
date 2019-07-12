@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  /*font-family: Monospace;*/
+  font-family: "Courier New";
+  font-size: 13px;
+  /*border: 1px solid black;*/
+}
+
+div#report > dl {
+  width:47%;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  border: 1px solid grey;
+}
+
+dd {margin-left: 2em}
+dl {margin-left: 1em}
+ul {padding-left: 0; padding-bottom: 1.2em;}
+
+div#report > dl > dt {
+  font-family: "Source Sans Pro";
+  font-weight: bold;
+  font-size: 1.3em;
+  padding-left: 0.5em;
+  margin-bottom: 0.7em;
+  border-bottom: 1px solid grey;
+  background-color: #689ECA;
+  color: white;
+}
+
+div#report > dl > dl > dt {
+	margin-right: 6em;
+	margin-left: 1.2em;
+	text-align: right;
+	border-bottom: 1px solid grey;
+}
+
+#report {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: center;
+}
+
+#name {order: -10;}
+#basic_information {order: -9;}
+#current_city_and_hometown {order: -8;}
+#contact_information {order: -7;}
+#education {order: -6}
+#work {order: -5}
+#favorite_quotes {clear: right;}
+#family_members {order: -4;}
+#relationship {order: -3;}
+#websites_and_social_links {order: -2;}
+
+/*dl#life_events > dl:nth-child(odd) {
+  background-color: #cce6ff;
+}
+
+dl#life_events > dl:nth-child(even) {
+  background-color: #99ceff;
+}*/
