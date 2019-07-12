@@ -1,3 +1,8 @@
+![[Version 1.0](https://github.com/R3nt0n)](http://img.shields.io/badge/version-v1.2-orange.svg)
+![[Python 2.7](https://github.com/R3nt0n)](http://img.shields.io/badge/python-2.7-blue.svg)
+![[GPL-3.0 License](https://github.com/R3nt0n)](https://img.shields.io/badge/license-GPL%203.0-brightgreen.svg)
+
+
 # FBSpider - Facebook Reporter
 
 FBSpider is a tool to **scrap** all the **information** about someone in Facebook. The kind of info that it gets: **music, books, movies, date of birth, work places**...
