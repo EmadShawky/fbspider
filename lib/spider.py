@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# R3nt0n
+# FBSpider (https://www.github.com/R3nt0n/fbspider)
+# R3nt0n (https://www.github.com/R3nt0n)
 #
 # Tested with:
 # - Firefox 46.0
