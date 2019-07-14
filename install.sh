@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# FBSpider (https://www.github.com/R3nt0n/fbspider)
+# R3nt0n (https://www.github.com/R3nt0n)
 
 sudo apt install python-pyvirtualdisplay
 
