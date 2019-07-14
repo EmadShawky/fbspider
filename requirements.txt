@@ -6,6 +6,6 @@ EasyProcess==0.2.3
 idna==2.7
 lxml==4.2.5
 PyVirtualDisplay==0.2.1
-requests==2.19.1
+requests
 selenium==2.53.0
-urllib3==1.23
+urllib3
