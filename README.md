@@ -6,7 +6,7 @@
 
 # FBSpider - Facebook Reporter
 
-FBSpider is a tool to **scrap** all the **information** about someone in Facebook. The kind of info that it gets: **music, books, movies, date of birth, work places**...
+FBSpider is a tool to **scrap** all the **information** about someone in Facebook. The kind of info that it gets: **music, books, movies, date of birth, work places**... This info can be used later to create custom wordlists.
 The app was **written in 2017**.
 
 You can get the info in **XML**, **HTML** light-styled and **raw**.
